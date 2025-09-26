@@ -1,10 +1,6 @@
 # Sexy Code Machine
 
-A coding agent focused on **vibe code cleanup** 
-
-## Overview
-
-Refactoring AI-generated code into clean, organized code.
+A coding agent focused on **vibe code cleanup**. Refactors AI-generated code into clean, organized code.
 
 - **Code Refactoring**: Automatically identify and improve code structure, performance, and maintainability
 - **Best Practices Enforcement**: Ensure code follows established patterns, conventions, and architectural principles
